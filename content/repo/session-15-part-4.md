@@ -28,11 +28,6 @@ metadata:
 description: "Peserta mempraktikkan pembuatan trigger yang mengurangi stok buku secara otomatis saat peminjaman terjadi. Modul ini menegaskan manfaat trigger dalam otomasi database."
 ---
 
-Siap. Berikut **Pertemuan 15 – Modul 2 (Praktikal): Praktik Trigger Update Stok Buku** lengkap sesuai kaidah.
-
----
-
-# Pertemuan 15 – Modul 2 (Praktikal): Praktik Trigger Update Stok Buku
 
 ## Pendahuluan
 

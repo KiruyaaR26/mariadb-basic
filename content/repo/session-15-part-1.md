@@ -29,8 +29,6 @@ description: "Modul ini mengenalkan konsep stored procedure di MariaDB sebagai c
 ---
 
 
-# Pertemuan 14 – Pengantar Stored Procedure (Konseptual)
-
 ## 1. Definisi Stored Procedure
 
 Stored procedure adalah sekumpulan perintah SQL yang disimpan di dalam database dan dapat dijalankan kapan saja dengan satu perintah pemanggilan. Dalam MariaDB, stored procedure ditulis sekali, disimpan, lalu bisa digunakan berulang kali tanpa harus mengetik query panjang berulang-ulang. Fitur ini memungkinkan developer membuat logika bisnis langsung di dalam database. Sama seperti pustakawan yang memiliki SOP tertulis, stored procedure berfungsi sebagai panduan tetap dalam mengelola data.

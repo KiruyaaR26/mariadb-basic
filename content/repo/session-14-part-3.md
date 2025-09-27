@@ -29,12 +29,6 @@ description: "Modul ini memperlihatkan perbedaan performa query dengan dan tanpa
 ---
 
 
-Baik 👍. Saya akan tuliskan **Pertemuan 13 – Modul 3 (Praktikal): Menguji Pengaruh Index pada Query** lengkap sesuai kaidah praktikal:
-
----
-
-# Pertemuan 13 – Modul 3 (Praktikal): Menguji Pengaruh Index pada Query
-
 ## Pendahuluan
 
 Uji performa adalah tahap penting untuk memastikan index benar-benar bermanfaat. Banyak pemula membuat index tanpa menguji dampaknya, sehingga mereka tidak tahu apakah index digunakan oleh query atau tidak. Dalam sistem perpustakaan digital, kecepatan pencarian buku atau data pinjaman sangat menentukan kualitas layanan. Tanpa pengujian, sistem bisa terlihat berjalan normal tetapi sebenarnya bekerja lambat di belakang layar. Oleh karena itu, pengujian performa harus menjadi kebiasaan baik setiap kali menambahkan index.

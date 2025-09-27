@@ -28,11 +28,6 @@ metadata:
 description: "Peserta mempelajari perintah SQL untuk membuat index pada kolom tabel. Modul ini memberikan pengalaman langsung bagaimana index memengaruhi performa query."
 ---
 
-Mantap 🚀. Saya buatkan **Pertemuan 13 – Modul 2 (Praktikal): Membuat Index Sederhana** lengkap sesuai kaidah yang sudah kamu tetapkan:
-
----
-
-# Pertemuan 13 – Modul 2 (Praktikal): Membuat Index Sederhana
 
 ## Pendahuluan
 

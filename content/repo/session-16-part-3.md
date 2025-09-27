@@ -29,10 +29,6 @@ description: "Peserta membuat query laporan peminjaman bulanan menggunakan fungs
 ---
 
 
-Baik, saya lanjut menulis **Modul 3 – Membuat Laporan Pinjaman Bulanan** sesuai kaidah modul praktikal.
-
----
-
 ## Pendahuluan
 
 Laporan pinjaman bulanan merupakan salah satu fitur penting dalam sistem perpustakaan. Dengan laporan ini, pustakawan dapat mengetahui jumlah transaksi peminjaman yang terjadi dalam periode tertentu. Informasi tersebut dapat digunakan untuk mengevaluasi tingkat pemanfaatan koleksi serta pola membaca anggota. Jika tidak ada laporan terstruktur, analisis data akan sulit dilakukan secara konsisten.

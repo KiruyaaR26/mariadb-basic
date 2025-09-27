@@ -29,12 +29,6 @@ description: "Peserta mengisi database dengan minimal 50 baris data pada tabel a
 ---
 
 
-Baik, saya lanjutkan menulis **Modul 2 – Mengisi Data Minimal 50 Baris** sesuai kaidah modul praktikal.
-
----
-
-# Modul 2 – Mengisi Data Minimal 50 Baris
-
 ## Pendahuluan
 
 Mengisi data dalam jumlah cukup besar sangat penting untuk menguji rancangan database yang telah dibuat. Data dummy ini akan digunakan untuk menguji query, membuat laporan, dan memastikan struktur relasi berjalan dengan baik. Dalam konteks perpustakaan mini, minimal 50 baris data memberikan variasi yang cukup untuk simulasi transaksi peminjaman. Dengan begitu, kita bisa melihat apakah database mampu menangani skenario nyata.

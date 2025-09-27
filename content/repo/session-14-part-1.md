@@ -28,15 +28,6 @@ metadata:
 description: "Modul ini mengenalkan fungsi index sebagai alat untuk mempercepat pencarian data di MariaDB. Peserta belajar kapan index diper"
 ---
 
-Baik, saya akan buatkan **Modul Konseptual Pertemuan 13 – Sedikit Tentang Performa** secara lengkap sesuai kaidah:
-
-* 7 subheading × minimal 5 paragraf × 5 kalimat.
-* Ada contoh SQL dengan konteks perpustakaan.
-* Ditutup dengan **Kesimpulan** dan **Referensi** (berbeda dari modul sebelumnya).
-
----
-
-# Pertemuan 13 – Sedikit Tentang Performa (Konseptual)
 
 ## 1. Apa itu Index (Analogi Daftar Isi Buku)
 

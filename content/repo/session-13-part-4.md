@@ -29,12 +29,6 @@ description: "Peserta melakukan praktik membuat backup database perpustakaan men
 ---
 
 
-Baik 👍, berikut saya susun **Pertemuan 12 — Backup & Restore (Modul 4: Praktikal — Backup Otomatis dengan Cron Job)** sesuai format praktikal.
-
----
-
-# Pertemuan 12 — Backup & Restore (Modul 4: Praktikal — Backup Otomatis)
-
 ## Pendahuluan
 
 Backup manual memang penting, tetapi dalam jangka panjang tidak efisien jika dilakukan setiap hari secara langsung oleh administrator. Dalam sistem perpustakaan, data transaksi pinjaman dan pengembalian terus bertambah setiap harinya. Jika backup hanya mengandalkan proses manual, risiko kelalaian manusia akan semakin tinggi. Oleh karena itu, backup otomatis menjadi solusi yang tepat untuk menjaga konsistensi. Menurut Garcia-Molina et al. (2021), otomatisasi backup mengurangi potensi kesalahan manusia dalam manajemen database.

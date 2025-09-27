@@ -28,11 +28,6 @@ metadata:
 description: "Peserta mempelajari penggunaan mysqldump untuk membuat backup logis database. Modul ini memberikan langkah sederhana menghasilkan file SQL cadangan."
 ---
 
-Baik 👍. Berikut saya susun **Pertemuan 12 — Backup & Restore (Modul 2: Konseptual)** sesuai kaidah yang sudah kita tetapkan.
-
----
-
-# Pertemuan 12 — Backup & Restore (Modul Konseptual)
 
 ## 1. Pentingnya Backup dalam Manajemen Data
 

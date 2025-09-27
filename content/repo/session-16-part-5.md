@@ -29,12 +29,6 @@ description: "Peserta merefleksikan pembelajaran selama 15 pertemuan dan mendisk
 ---
 
 
-Baik, saya akan menuliskan **Modul 5 – Refleksi: Apa yang Sudah Dipelajari dan Arah Lanjutan (Intermediate)** sesuai kaidah **modul konseptual** (7 subheading, masing-masing 5 paragraf × 5 kalimat, ditutup Kesimpulan + Referensi).
-
----
-
-# Modul 5 – Refleksi: Apa yang Sudah Dipelajari dan Arah Lanjutan (Intermediate)
-
 ## 1. Ringkasan Perjalanan dari Dasar hingga Proyek Mini
 
 Sejak pertemuan awal, kita telah mempelajari dasar-dasar SQL dan konsep penting dalam manajemen database. Dimulai dengan pengenalan query sederhana seperti `SELECT`, `INSERT`, dan `UPDATE`, pembaca diajak memahami bagaimana data dikelola. Selanjutnya, kita masuk ke topik normalisasi, fungsi-fungsi SQL, serta pembuatan view. Semua topik tersebut saling melengkapi dan mengarah pada kemampuan merancang sistem nyata. Proyek mini di pertemuan ini menjadi bukti bahwa seluruh konsep dasar dapat diaplikasikan dalam konteks perpustakaan.

@@ -29,12 +29,6 @@ description: "Modul ini membimbing peserta membuat user admin dan anggota dengan
 ---
 
 
-Baik, saya lanjut menulis **Modul 4 – Membuat User Admin & Anggota dengan Izin Berbeda** sesuai kaidah modul praktikal.
-
----
-
-# Modul 4 – Membuat User Admin & Anggota dengan Izin Berbeda
-
 ## Pendahuluan
 
 Dalam sebuah sistem perpustakaan, tidak semua pengguna memiliki hak akses yang sama. Pustakawan sebagai admin memerlukan akses penuh untuk mengelola data buku, anggota, dan laporan. Sementara itu, anggota perpustakaan biasanya hanya perlu hak akses terbatas, misalnya untuk melihat koleksi atau melakukan pencarian. Oleh karena itu, perbedaan hak akses merupakan bagian penting dari keamanan database.

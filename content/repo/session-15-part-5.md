@@ -28,7 +28,6 @@ metadata:
 description: "Peserta berlatih membuat prosedur untuk menghasilkan laporan harian peminjaman. Modul ini memperkuat keterampilan menggabungkan konsep prosedur dan query praktis."
 ---
 
-# Pertemuan 16 – Modul 1 (Praktikal): Prosedur Laporan Harian
 
 ## Pendahuluan
 
